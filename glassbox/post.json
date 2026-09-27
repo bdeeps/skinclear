@@ -1,0 +1,126 @@
+{
+  "slug": "skinclear",
+  "box": 40,
+  "question": "How does the skin work?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/skinclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/skinclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "2,500 years from a new nose cut from the cheek in ancient India to lab-grown skin, touch sensors and a fairer scale for every skin tone.\n\n600 BCE: A new nose from the cheek\n1665: The microscope finds the layers\n1794: A letter from Pune\n1834: One point or two?\n1869: Pinches of skin that grow\n1919: Sunlight heals bones\n\nThe full story, with 30 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/skinclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/skinclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #skin #dermatology #melanin #sweat #touch #uvindex #history",
+      "youtube": {
+        "title": "The history of understanding the skin in 45 seconds #shorts",
+        "description": "2,500 years from a new nose cut from the cheek in ancient India to lab-grown skin, touch sensors and a fairer scale for every skin tone.\n\n600 BCE · A new nose from the cheek (Sushruta (attributed))\n1665 · The microscope finds the layers (Marcello Malpighi)\n1794 · A letter from Pune (Cowasjee and an Indian surgeon; letter signed only “B.L.”)\n1834 · One point or two? (Ernst Heinrich Weber)\n1869 · Pinches of skin that grow (Jaques-Louis Reverdin)\n1919 · Sunlight heals bones (Kurt Huldschinsky; Alfred Hess and Lester Unger)\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/skinclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/skinclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does the skin work?\n\nYour skin is your largest organ: about 2 square metres that keeps water in, germs out and your core at 37 °C. Cut open a block of it, follow a cell from birth to flake, sweat through a humid heatwave, feel with five kinds of sensor, and see why skin comes in every shade.\n\n→ Your skin is your largest organ: about 2 square metres and 4 kilograms.\n→ Pull it apart: a thin epidermis on top, a tough dermis full of vessels and nerves, then fat.\n→ The skin you touch is dead: cells born at the bottom rise, flatten and die into a brick wall.\n→ Sweat cools only when it evaporates: each gram carries away about 2,400 joules of heat.\n→ In humid heat sweat just drips, and above a wet-bulb of about 35 °C even resting in shade can’t cool you.\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/skinclear (link in bio)\n\nBox No. 040 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #skin #dermatology #melanin #sweat #touch #uvindex #humanbody #biology #threejs",
+    "carousel": "Swipe through: How does the skin work?\n\nYour skin is your largest organ: about 2 square metres that keeps water in, germs out and your core at 37 °C. Cut open a block of it, follow a cell from birth to flake, sweat through a humid heatwave, feel with five kinds of sensor, and see why skin comes in every shade.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/skinclear (link in bio).\n\nBox No. 040 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #skin #dermatology #melanin #sweat #touch #uvindex",
+    "youtube": {
+      "title": "How does the skin work? #shorts",
+      "description": "Your skin is your largest organ: about 2 square metres that keeps water in, germs out and your core at 37 °C. Cut open a block of it, follow a cell from birth to flake, sweat through a humid heatwave, feel with five kinds of sensor, and see why skin comes in every shade.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/skinclear/\n⌘ Source code (MIT): https://github.com/bdeeps/skinclear\n\nBox No. 040 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does the skin work? (interactive explainer)",
+      "description": "Your skin is your largest organ: about 2 square metres that keeps water in, germs out and your core at 37 °C. Cut open a block of it, follow a cell from birth to flake, sweat through a humid heatwave, feel with five kinds of sensor, and see why skin comes in every shade.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/skinclear/\n⌘ Source code (MIT): https://github.com/bdeeps/skinclear\n\nIn this video:\n• Three layers, one big organ. Skin covers about 1.5 to 2 m² and weighs about 3.5 to 4 kg.\n• A wall that rebuilds itself. New cells are born in the basal layer and pushed up.\n• Your built-in air conditioner. Vessels widen to dump heat or narrow to save it, and each gram of sweat that evaporates carries away about 2,400 J.\n• Five kinds of touch sensor. Merkel cells feel pressure, Meissner corpuscles light touch, Pacinian corpuscles vibration near 250 Hz, Ruffini endings stretch, and free nerve endings pain and temperature.\n• Melanin, the skin's own sunshade. Everyone has about the same number of melanocytes; skin tone depends on how much and which melanin they make.\n• Healing and what goes wrong. A cut heals through clotting, inflammation, new tissue and months of remodelling into a scar at most 80% as strong.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does the skin work?\n\nYour skin is your largest organ: about 2 square metres that keeps water in, germs out and your core at 37 °C.\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/skinclear/",
+    "linkedin": "How does the skin work?\n\nYour skin is your largest organ: about 2 square metres that keeps water in, germs out and your core at 37 °C. Cut open a block of it, follow a cell from birth to flake, sweat through a humid heatwave, feel with five kinds of sensor, and see why skin comes in every shade.\n\n1. Three layers, one big organ\n2. A wall that rebuilds itself\n3. Your built-in air conditioner\n4. Five kinds of touch sensor\n5. Melanin, the skin's own sunshade\n6. Healing and what goes wrong\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 040 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/skinclear/\nCode: https://github.com/bdeeps/skinclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-28T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-27T15:58:22.584Z"
+}

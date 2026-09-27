@@ -1,0 +1,110 @@
+{
+  "slug": "skinclear",
+  "box": 40,
+  "date": "2026-10-20",
+  "title": "SkinClear",
+  "question": "How does the skin work?",
+  "hook": "Your skin is your largest organ: about 2 square metres that keeps water in, germs out and your core at 37 °C. Cut open a block of it, follow a cell from birth to flake, sweat through a humid heatwave, feel with five kinds of sensor, and see why skin comes in every shade.",
+  "thumbText": "HOW YOUR SKIN WORKS",
+  "field": "body",
+  "minutes": 15,
+  "tags": [
+    "skin",
+    "dermatology",
+    "melanin",
+    "sweat",
+    "touch",
+    "UV index",
+    "human body",
+    "biology",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Three layers, one big organ",
+      "text": "Skin covers about 1.5 to 2 m² and weighs about 3.5 to 4 kg. On top is the thin epidermis, about 0.1 mm on most of the body. Below is the tough dermis with blood vessels, nerves, hair follicles and sweat glands, and under that a layer of fat."
+    },
+    {
+      "title": "A wall that rebuilds itself",
+      "text": "New cells are born in the basal layer and pushed up. They fill with keratin, die and flatten into bricks glued with fatty mortar, then flake off, about 4 weeks after birth. This barrier keeps water in and germs out."
+    },
+    {
+      "title": "Your built-in air conditioner",
+      "text": "Vessels widen to dump heat or narrow to save it, and each gram of sweat that evaporates carries away about 2,400 J. In humid heat sweat can't dry: near a wet-bulb temperature of 35 °C, or lower, even resting in shade can't cool you."
+    },
+    {
+      "title": "Five kinds of touch sensor",
+      "text": "Merkel cells feel pressure, Meissner corpuscles light touch, Pacinian corpuscles vibration near 250 Hz, Ruffini endings stretch, and free nerve endings pain and temperature. A fingertip tells two points apart at 2 to 3 mm; the back needs about 40 mm."
+    },
+    {
+      "title": "Melanin, the skin's own sunshade",
+      "text": "Everyone has about the same number of melanocytes; skin tone depends on how much and which melanin they make. Melanin absorbs UV. UV-B burns but also makes vitamin D. Indian summers often reach UV index 11+, and SPF 30 used thickly blocks about 97% of sunburning UV."
+    },
+    {
+      "title": "Healing and what goes wrong",
+      "text": "A cut heals through clotting, inflammation, new tissue and months of remodelling into a scar at most 80% as strong. Burns are graded by depth. Acne, eczema and moles each have a simple cause. For your own skin, see a doctor or dermatologist."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Epidermis",
+      "def": "The thin outer layer of skin, renewed from its basal layer about every 4 weeks."
+    },
+    {
+      "term": "Dermis",
+      "def": "The tough middle layer of collagen and elastin, holding vessels, nerves, glands and hair roots."
+    },
+    {
+      "term": "Stratum corneum",
+      "def": "The outermost skin: flat dead cells of keratin glued by fats, the main barrier."
+    },
+    {
+      "term": "Melanin",
+      "def": "The pigment made by melanocytes that colours skin and absorbs ultraviolet light."
+    },
+    {
+      "term": "Eccrine gland",
+      "def": "The common sweat gland, a coiled tube opening straight onto the skin."
+    },
+    {
+      "term": "Latent heat",
+      "def": "The heat that turning a liquid into vapour takes: about 2,400 J per gram of sweat."
+    },
+    {
+      "term": "Wet-bulb temperature",
+      "def": "A single temperature that combines heat and humidity; it sets the limit for cooling by sweat."
+    },
+    {
+      "term": "Pacinian corpuscle",
+      "def": "An onion-like touch receptor deep in the skin, most sensitive to vibration near 250 Hz."
+    },
+    {
+      "term": "SPF",
+      "def": "Sun protection factor: with SPF 30 applied as in the lab, about 1/30 of sunburning UV gets through."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "skinclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    },
+    {
+      "name": "Monk Skin Tone Scale (Ellis Monk, Google)",
+      "license": "CC BY 4.0",
+      "url": "https://skintone.google"
+    }
+  ]
+}
